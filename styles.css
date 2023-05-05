@@ -1,0 +1,174 @@
+/*
+#5C3317 - Dark Brown
+#804720 - Brown
+#F7A26C - Tangerine
+#CCAF9D - Desert Sand
+#E76A1A - Spanish Orange
+*/
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Nunito&family=Roboto&display=swap');
+
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+.top{
+    height: 100px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #F7A26C;
+}
+
+.top ul{
+    display: block;
+}
+
+.top ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 3%;
+    width: 9%;
+}
+
+.top a{
+    text-decoration: none;
+    font-size: 1.75em;
+    color: white;
+}
+
+.top a:hover{
+    color: white;
+    background-color: lightcoral;
+}
+
+body{
+   background-color: #5c3317; 
+}
+
+#home{
+    margin: 5%;
+    text-align: center;
+    border: 2%;
+    font-size: 1.5em;
+    background-color: #804720;
+    color: white;
+}
+
+#home blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#home ul{
+    list-style-type: none;
+}
+
+#his{
+    margin: 5%;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: #804720;
+    color: white;
+}
+
+#his blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#dec{
+    text-align: center;
+    margin: 5%;
+    border: 2%;
+    font-size: 1.5em;
+    background-color: #804720;
+    color: white;
+}
+
+#dec blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+#charicter{
+    text-align: center;
+    margin: 5%;
+    border: 2%;
+    font-size: 1.5em;
+    background-color: #804720;
+    color: white;
+}
+
+#charicter blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#temp{
+    text-align: center;
+    margin: 5%;
+    border: 2%;
+    font-size: 1.5em; 
+    background-color: #804720;
+    color: white;
+}
+
+#temp blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#contact{
+    text-align: center;
+    background-color: #804720;
+    margin: 5%;
+    color: white;
+}
+
+#contact table{
+    border: 1px solid black;
+}
+
+#contact blockquote{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.bot{
+    height: 100px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #F7A26C;
+}
+
+.bot ul{
+    display: block;
+}
+
+.bot ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 3%;
+    width: 9%;
+}
+
+.bot a{
+    text-decoration: none;
+    font-size: 1.75em;
+    color: white;
+}
+
+.bot a:hover{
+    color: white;
+    background-color: lightcoral;
+}
+
+footer{
+    text-align: center;
+    font-size: .75em;
+    border: 1px solid black;
+    background-color: #CCAF9D;
+}
